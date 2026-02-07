@@ -27,4 +27,4 @@ No es solo un chatbot; es un sistema operativo para mi vida digital.
 <!---
 Estadísticas generadas dinámicamente
 -->
-![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toninicolas&show_icons=true&theme=radical&hide=stars,contribs)
+<!--- Stats image disabled due to service downtime -->
